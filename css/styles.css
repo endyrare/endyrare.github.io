@@ -11425,7 +11425,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../../../Pictures/1.png");
+  background-image: url("../1.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11827,7 +11827,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 .bg-static {
-		background-image: url("../../../Documents/MadMask2/assets/968970-Akiakane-oni-mask-Japan-samurai-green-background.jpg");
+		background-image: url("../968970-Akiakane-oni-mask-Japan-samurai-green-background.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
