@@ -648,7 +648,7 @@ a:focus, a:hover {
 }
 .slider-item h1 {
     color: #FFC343;
-    font-size: 60px;
+    font-size: 205px;
     line-height: 70px;
     letter-spacing: 2px;
     font-weight: 700;
@@ -2102,6 +2102,11 @@ a:focus, a:hover {
   .blog-title h1 {
     font-size: 28px;
   }
+	
+  }
+  .WelcomeTitle h2 {
+    font-size: 131px;
+  }	
   /* blog page */
   #blog-page {
     margin: 0;
