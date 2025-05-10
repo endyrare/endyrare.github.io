@@ -946,6 +946,15 @@ a:focus, a:hover {
 .social-icon ul li a:hover i {
   color: #fff;
 }
+
+.bottom-left{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: auto;
+    left: 0;
+    bottom: 129px;
+}
 .social-icon ul li a i {
   color: #55606a;
   display: inline-block;
